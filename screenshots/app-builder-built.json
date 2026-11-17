@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "BIQ Brain Studios — Events and elections in Ghana",
+      "hasCanvas": false,
+      "bodyTextLen": 3048,
+      "bodyTextHash": "e1e36f54b3ce998b02e57407223ee3f35ef15666764468d3bf5dc162f2a5908a",
+      "bodyTextPrefix": "B BIQ Brain Studios Discover Events Voting & Elections Pricing A",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "BIQ Brain Studios — Events and elections in Ghana",
+      "hasCanvas": false,
+      "bodyTextLen": 2792,
+      "bodyTextHash": "2bb269f98e73656fb6457f2cf544f8ec855d92dd7ea27415499bec650720008c",
+      "bodyTextPrefix": "B BIQ Brain Studios Made for Ghana · Prices in GHS Run events an",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
